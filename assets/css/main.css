@@ -745,6 +745,7 @@ section {
 }
 
 .menu .tab-content .menu-item .ingredients {
+  text-align: center;
   font-family: var(--font-secondary);
   color: #8d8d9b;
   margin-bottom: 5px;
